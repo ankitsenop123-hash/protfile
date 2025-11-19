@@ -22,4 +22,21 @@
       box-sizing: border-box;
       border-radius: 8px;
     }
+a{ 
+   color:#fff;
+  text-decoration:none;
+}
+.navbar{
+     position: fixed;
+    left:0;
+    top:0;
+    width:100;
+    padding:25px 9%;
+    background:black;
+    display: flex;
+    justify-content:space-around;
+    align-item: center;
+    z-index:100;
+}
+
   </style>
